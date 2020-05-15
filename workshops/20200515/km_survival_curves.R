@@ -9,5 +9,7 @@ head(ovarian)
 surv_object <- Surv(time = ovarian$futime, event = ovarian$fustat)
 fit1 <- survfit(surv_object ~ treatment, data = ovarian)
 
+summary(fit1)
+
 ggsurvplot(fit1, data = ovarian, pval=TRUE)
 
