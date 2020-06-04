@@ -1,4 +1,4 @@
-# Coding Workshop Advanced Curriculum
+# Coding Workshop Curriculum (Advanced)
 
 We have identified several advanced courses for those with more experience. All these Courses come from the same HarvardX Data Science program. If you have experience beyond these courses, please email us individually.
 
