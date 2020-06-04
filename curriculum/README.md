@@ -1,6 +1,10 @@
-# Coding Workshop Curriculum
+# Coding Workshop Advanced Curriculum
 
-All these Courses come from the same HarvardX Data Science program. If you have experience beyond these courses, please email us individually. We recommend completing the Courses in the following order:
+We have identified several advanced courses for those with more experience. All these Courses come from the same HarvardX Data Science program. If you have experience beyond these courses, please email us individually.
+
+For those who are doing the “R Basics” course, do not worry about these for now. Once you finish the basic course, you should consider trying these as they will be very helpful as well! We want to emphasize that we are here to support each other as a group, regardless of previous experience.
+
+We recommend completing the Courses in the following order: 
 
 1. Data Science: R Basics
    - https://www.edx.org/course/data-science-r-basics
