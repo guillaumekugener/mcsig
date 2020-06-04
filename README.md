@@ -1,4 +1,4 @@
-# MCSIG
+# Medical Computer Science Interest Group (MCSIG)
 
 Welcome to the Medical Computer Science Interest Group's GitHub!
  
