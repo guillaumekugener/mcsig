@@ -18,4 +18,4 @@ This is an important model to be able to create if you are doing any sort of res
 
 Example of a Survival Analysis graph 
 - This slide from Dr. Arias’ lecture shows the survival of women with endometrial cancer after given estrogen.
-![Endometrial Cancer Survival Curve](https://drive.google.com/file/d/1JYCNB0fN6wvS3-A9xHOdLO3DMyB7PQCK/view)
+![Endometrial Cancer Survival Curve](https://drive.google.com/uc?export=view&id=<1JYCNB0fN6wvS3-A9xHOdLO3DMyB7PQCK>)
