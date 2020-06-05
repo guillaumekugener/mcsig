@@ -13,7 +13,8 @@ For example:
 - Rate of AIDS development after HIV diagnosis.
 
 This is an important model to be able to create if you are doing any sort of research regarding clinical trials. 
-<Br/>
+
+<br />
 
 Example of a Survival Analysis graph 
 - This slide from Dr. Arias’ lecture shows the survival of women with endometrial cancer after given estrogen.
