@@ -10,14 +10,17 @@ ggplot(covid_data, aes(`Other Swab`, `Nasopharyngeal Swab`)) +
   geom_point() +
   facet_wrap(~Type)
 
+# Compute correlation for a single group here
 tongue_only <- covid_data %>%
   filter(Type=='Tongue')
 
 cor.test(
   tongue_only$`Other Swab`,
   tongue_only$`Nasopharyngeal Swab`,
-  method='pearson'
+  method='pearson' # We can specify what method we may want to use instead
 )
+
+# Can do all the correlations at once
 
 individual_correlations <- covid_data %>%
   group_by(Type) %>%
