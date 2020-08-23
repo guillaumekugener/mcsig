@@ -13,7 +13,8 @@ We recommend completing the Courses in the following order:
 
 2. Data Science: Visualization
    - https://www.edx.org/course/data-science-visualization
-   - Manipulating data to create tables and variables for your specific analysis is one of the things that makes R so much more useful over spreadsheets (like Excel and Google Sheets). This course will teach you how to efficiently sort through your data preprocessing - a crucial step before you can do any downstream analysis.
+   - This course will give you an overview of how to use R to make a variety of useful plots. R is one of the most commonly used languages to generate figures for publications and this course will cover many of the basics of plotting to get you started.
+
 <br />
 
 3. Data Science: Wrangling
